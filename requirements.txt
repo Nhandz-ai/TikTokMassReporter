@@ -1,4 +1,0 @@
-aiohttp
-asyncio
-pystyle
-fake_useragent
